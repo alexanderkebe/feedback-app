@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "this is a stupendes application keep up the good work!"
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "text": "I like it very much, but there is room to do more. nice work overall!"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "The app is beautiful. I enjoy it very much. Yet, I still prefer things more brighter."
+    },
+    {
+      "rating": "7",
+      "text": "its goob but u cant add after u edit a feedback",
+      "id": 4
+    },
+    {
+      "rating": "9",
+      "text": "i just run out of word to say am speech less",
+      "id": 5
+    },
+    {
+      "text": "this is an updated  item",
+      "rating": 8,
+      "id": 6
+    }
+  ]
+}
